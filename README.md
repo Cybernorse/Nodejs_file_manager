@@ -1,8 +1,9 @@
 # Nodejs_file_manager 
-This web based file manager is build on Nodejs using Cloud commander(lib==cloudcmd) is being used as middleware for expressjs(lib==express) and is quit simple and easy to use.
+This web based file manager is build on Nodejs using Cloud commander(lib==cloudcmd) is being used as 
+middleware for expressjs(lib==express) and is quit simple and easy to use.
 
 Installing:
-sudo apt-get install npm |---- (node package manager)
+sudo apt-get install npm |---- (node package manager)\n
 sudo npm install npm@latest -g |---- (install the latest npm)
 sudo npm cache clean -f |---- (clean up the cache)
 sudo npm install -g n |---- (install the nodejs)
