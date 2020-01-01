@@ -15,10 +15,12 @@ try this :  sudo chown -R 1000:1000 "/home/{yourusername}/.npm"
 
 Usage :
 
-After the dependencies have been installed run the file_manager.js from any editor having the node kernel or just run it from the terminal with "node file_manager.js"
+After the dependencies have been installed run the file_manager.js from any editor having the node kernel or 
+just run it from the terminal with "node file_manager.js"
 
 Open the browser and write "localhost:1337 -- (any port that you wrote in file_manager.js)
 
-don't use cloud commander directly from the terminal ">>cloucmd" or it will be alot slower and you will not be able play videos and you won't be able to use cloud services properly. 
+don't use cloud commander directly from the terminal ">>cloucmd" or it will be alot slower and you will not be able 
+play videos and you won't be able to use cloud services properly. 
 
 further cloud commander configuration details can be found at cloud commander official documentation. https://cloudcmd.io/
